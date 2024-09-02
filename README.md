@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# euphoria-project" 
 "# euphoria-1" 
 "# euphoria-new" 
+"# my-euphoria" 

@@ -21,7 +21,6 @@ const EverydayBanner = () => {
 const BannerContainer = styled.div`
   display: flex;
   padding: 3% 0 0;
-
   
     @media (max-width: 640px) {
         flex-direction:column;

@@ -89,8 +89,7 @@ const ProductsSliderWrapper = styled.div`
   }
 `;
 
-const Profile = styled.div`
-`;
+const Profile = styled.div``;
 
 const ProfileImage = styled.img``;
 

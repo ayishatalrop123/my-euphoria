@@ -48,7 +48,7 @@ const TemplateSection = styled.div`
   background: url(${(props) => props.bgImage}) top/cover no-repeat;
   height: 45vh;
   border-radius: 25px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 
   @media (max-width: 980px) {
     height: 25vh;

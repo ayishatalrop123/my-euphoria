@@ -55,7 +55,6 @@ const Footer = () => {
             ))}
           </SocialIconsList>
         </SocialContainer>
-
         <SocialSection>
           <Title>Download The App</Title>
           <div>

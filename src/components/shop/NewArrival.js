@@ -84,8 +84,7 @@ const NewArrival = () => {
                                 <ProductInfo>
                                     <ProductTitle>{item.title}</ProductTitle>
                                 </ProductInfo>
-                            </ProductCard>
-                        
+                            </ProductCard>                       
                     ))}
                 </Slider>
             </ProductsSliderWrapper>

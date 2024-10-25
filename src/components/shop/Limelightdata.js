@@ -7,7 +7,7 @@ import img22 from "../../assets/img-22.jpg";
 import img23 from "../../assets/img-13.jpg";
 
 const limelightData = [
-    { id: 1, title: "Hoodies & Sweatshirt", image: img16, category: "men's clothing", price: 29.99 },
+    { id: 1, title: "Black & Sweatshirt", image: img16, category: "men's clothing", price: 29.99 },
     { id: 2, title: "Coats & Parkas", image: img17, category: "men's clothing", price: 59.99 },
     { id: 3, title: "Tees & T-Shirt", image: img18, category: "men's clothing", price: 19.99 },
     { id: 4, title: "Boxers", image: img19, category: "men's clothing", price: 9.99 },
